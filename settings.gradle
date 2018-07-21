@@ -1,0 +1,5 @@
+rootProject.name = 'test-task-brocker'
+
+include 'brocker'
+include 'subscriber'
+
